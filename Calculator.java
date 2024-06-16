@@ -1,3 +1,4 @@
+//test
 public class Calculator {
     public int add(int a, int b) {
         return a + b;
@@ -8,6 +9,10 @@ public class Calculator {
     }
 
     public int multiply(int a, int b) {
+        return a * b;
+    }
+
+    public int Archerrrrr(int a, int b) {
         return a * b;
     }
 }
